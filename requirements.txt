@@ -1,4 +1,5 @@
-opencv-python
+streamlit
+streamlit-webrtc
+opencv-python-headless
 mediapipe==0.10.21
 numpy
-pytesseract
